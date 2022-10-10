@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christian-rd
 
-<!---
-christian-rd/christian-rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div>
+<img src="https://user-images.githubusercontent.com/112029342/194943633-932d9bd3-b874-4972-8daf-7e9b1a97720c.gif" width="1920px" />
+</div>
