@@ -1,4 +1,4 @@
-# 👋 Opa, beleza? Me chamo Christian Davi.
+# 👋 Opa, beleza? Me chamo Christian Davi
 
 
 <div>
